@@ -11,9 +11,8 @@ A Smart AI WhatsApp ChatBot
 
 **This is necessary for us to showcase the demonstration of our Smart AI Bots. Due to security concerns, WhatsApp does not permit bots to send messages to anyone without their consent.** 
 
-**However, you can watch videos showing the demonstration of our project here 👇
-https://www.youtube.com/playlist?list=PLAp8mQpJjWpou26MTylcS8b8QemqfFdFd
-**
+**However, you can watch videos showing the demonstration of our project here :
+https://www.youtube.com/playlist?list=PLAp8mQpJjWpou26MTylcS8b8QemqfFdFd**
 
 **Your understanding and support would be greatly appreciated as we have put in hours of hard work and dedication to bring our project based on WhatsApp to life.** 
 
