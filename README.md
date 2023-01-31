@@ -3,6 +3,8 @@ A Smart AI WhatsApp ChatBot
 
 
 
+
+
 # A Humble Request to the Judges
 
 **Dear Judges, as our project relies heavily on WhatsApp, we kindly ask for your cooperation by providing us with your WhatsApp number either via call or text or an email message.**
@@ -12,6 +14,7 @@ A Smart AI WhatsApp ChatBot
 **Your understanding and support would be greatly appreciated as we have put in hours of hard work and dedication to bring this project to life.** 
 
 **Thank you 💐**
+
 
 **You can mail us at :**
 
